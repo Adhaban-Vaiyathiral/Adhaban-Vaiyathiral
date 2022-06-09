@@ -14,3 +14,7 @@ I'm Adhaban Vaiyathiral, Currently persuing BCA in SRM institute of Science and 
 - 🥅 2022 Goal: Learn more about webdevelopement.
 - ⚡ Fun fact: I love to learn new things and I like to play games.
 - 📫 How to reach me: adhabanvaiyathiral@gmail.com.
+
+## Profile Visits
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Adhaban-Vaiyathiral.Adhaban-Vaiyathiral)
