@@ -11,7 +11,7 @@ I'm Adhaban Vaiyathiral, Currently persuing BCA in SRM institute of Science and 
 
 ## I'm a Student
 
-- 🥅 2022 Goal: Learn more about webdevelopement.
+- 🥅 2022 Goal: Learn more about web developement.
 - ⚡ Fun fact: I love to learn new things and I like to play games.
 - 📫 How to reach me: adhabanvaiyathiral@gmail.com.
 
