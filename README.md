@@ -1,6 +1,6 @@
 # Hey i'm Adhaban Vaiyathiral
 
-I'm Adhaban Vaiyathiral, Currently persuing BCA in SRM institute of Science and Technology.
+I'm Adhaban Vaiyathiral, Completed BCA in SRM institute of Science and Technology.
 
 :mailbox: Reach me out!
 
@@ -9,9 +9,9 @@ I'm Adhaban Vaiyathiral, Currently persuing BCA in SRM institute of Science and 
 [![Twitter Badge](https://img.shields.io/badge/-@_iaadhi_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_iaadhi_)](https://twitter.com/_iaadhi_)
 [![Mail Badge](https://img.shields.io/badge/-@_iaadhi_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_iaadhi_)
 
-## I'm a Student
+## I'm a BCA Graduate
 
-- 🥅 2022 Goal: Learn more about web developement.
+- 🥅 2023 Goal: Learn more about web developement.
 - ⚡ Fun fact: I love to learn new things and I like to play games.
 - 📫 How to reach me: adhabanvaiyathiral@gmail.com.
 
